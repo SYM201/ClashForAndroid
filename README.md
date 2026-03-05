@@ -22,6 +22,18 @@ See also [LICENSE](./LICENSE) and [NOTICE](./NOTICE)
 
 See also [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
 
+### Optical Interconnect Vendor Solutions (光互连厂商方案与性能概览)
+
+Summary compiled from public vendor materials; performance varies by SKU, so please refer to the linked datasheets.
+以下内容汇总自厂商公开资料，性能参数会随具体型号而变化，请以链接中的规格书为准。
+
+| Vendor (厂商) | Solution/Product Line (方案/产品线) | Speed/Performance Range (速度/性能范围) | Reference Link (参考链接) |
+| --- | --- | --- | --- |
+| NVIDIA | Quantum-2 InfiniBand / ConnectX-7 | Up to 400 Gb/s and beyond (400 Gb/s 及以上) | https://www.nvidia.com/en-us/networking/ |
+| Intel | Silicon Photonics optical modules | 100G/400G-class interconnect (100G/400G 级互连) | https://www.intel.com/content/www/us/en/architecture-and-technology/silicon-photonics.html |
+| Broadcom | Ethernet switching + optics ecosystem | 400G/800G-class interconnect (400G/800G 级互连) | https://www.broadcom.com/products/ethernet-connectivity/ |
+| Cisco | Silicon One + optics portfolio | 400G/800G-class interconnect (400G/800G 级互连) | https://www.cisco.com/c/en/us/products/interfaces-modules/optics-transceivers/index.html |
+
 ### Build
 
 1. Update submodules
