@@ -22,6 +22,17 @@ See also [LICENSE](./LICENSE) and [NOTICE](./NOTICE)
 
 See also [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
 
+### 光互连厂商方案与性能概览
+
+以下内容汇总自厂商公开资料，性能参数会随具体型号而变化，请以链接中的规格书为准。
+
+| 厂商 | 方案/产品线 | 典型速率/性能（公开资料/常见范围） | 参考链接 |
+| --- | --- | --- | --- |
+| NVIDIA | Quantum-2 InfiniBand / ConnectX-7 | 400 Gb/s 级互连 | https://www.nvidia.com/en-us/networking/ |
+| Intel | Silicon Photonics 光模块 | 100G/400G 级互连 | https://www.intel.com/content/www/us/en/architecture-and-technology/silicon-photonics.html |
+| Broadcom | 以太网交换芯片 + 光模块生态 | 400G/800G 级互连 | https://www.broadcom.com/products/ethernet-connectivity/ |
+| Cisco | Silicon One + 光模块系列 | 400G/800G 级互连 | https://www.cisco.com/c/en/us/products/interfaces-modules/optics-transceivers/index.html |
+
 ### Build
 
 1. Update submodules
