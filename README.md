@@ -28,6 +28,11 @@ Use `Android Studio` or `IntelliJ IDEA` to open the project.
 
 > [!NOTE]
 > This repository does not use Node.js. If Visual Studio Code shows a popup such as `Can't find Node.js binary "node"` while opening the project, the popup comes from your local VS Code extension or launch configuration instead of Clash for Android itself.
+>
+> To fix it:
+> - open the project in `Android Studio` or `IntelliJ IDEA`, or
+> - install Node.js if you want to keep using the affected VS Code extension, or
+> - disable/remove the VS Code extension or `launch.json` entry that tries to start `node`
 
 1. Update submodules
 
