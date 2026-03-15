@@ -24,6 +24,11 @@ See also [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
 
 ### Build
 
+Use `Android Studio` or `IntelliJ IDEA` to open the project.
+
+> [!NOTE]
+> This repository does not use Node.js. If Visual Studio Code shows a popup such as `Can't find Node.js binary "node"` while opening the project, the popup comes from your local VS Code extension or launch configuration instead of Clash for Android itself.
+
 1. Update submodules
 
    ```bash
