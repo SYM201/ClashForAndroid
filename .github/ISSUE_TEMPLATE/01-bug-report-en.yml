@@ -11,7 +11,7 @@ body:
 
         NOTE: We do not provide any services such as proxies, DO NOT feedback any problems not caused by this application here.
         NOTE: Clash for Android does not use Node.js. If Visual Studio Code shows `Can't find Node.js binary "node"` while opening this repository, that popup comes from your local VS Code extension or launch configuration instead of this application.
-        NOTE: Please open the project in Android Studio/IntelliJ IDEA, install Node.js for the affected VS Code extension, or disable the extension/launch configuration before filing a bug report about that popup.
+        NOTE: Please open the project in Android Studio/IntelliJ IDEA, install Node.js for the affected VS Code extension, or disable the extension/launch configuration instead of filing a bug report about that popup.
 
         <!-- template -->
   - type: textarea

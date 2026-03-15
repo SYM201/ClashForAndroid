@@ -11,7 +11,7 @@ body:
 
         注意：这里不提供像是代理服务器之类的服务，请不要反馈非应用自身引起的问题。
         注意：Clash for Android 本身不使用 Node.js。如果您在 Visual Studio Code 中打开此仓库时看到 `Can't find Node.js binary "node"`，该弹窗来自您本地的 VS Code 扩展或启动配置，而不是本应用。
-        注意：请优先使用 Android Studio/IntelliJ IDEA 打开项目；如果仍需使用相关 VS Code 扩展，请安装 Node.js，或禁用对应扩展/`launch.json` 配置后再提交此类错误报告。
+        注意：请优先使用 Android Studio/IntelliJ IDEA 打开项目；如果仍需使用相关 VS Code 扩展，请安装 Node.js，或禁用对应扩展/`launch.json` 配置，而不是为这个弹窗提交错误报告。
 
         <!-- template -->
   - type: textarea
